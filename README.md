@@ -7,4 +7,5 @@ Code is in "scraper" folder
 ### linkedin-competitor posts scrape and post to Power BI dashboard
 
 Scraping LinkedIn posts from competitor and visualize in Power BI
-Background/reason is we don't want to manually check our competitors' situation! We want to do it a smarter way.
+Background/reason is we don't want to manually check our competitors' situation! We want to do it a smarter way.\
+code is in the jupyter notebook file "LinkedIn contact scraping Power BI"
